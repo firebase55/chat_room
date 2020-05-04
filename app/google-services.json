@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38364068067",
+    "firebase_url": "https://freq-cb03e.firebaseio.com",
+    "project_id": "freq-cb03e",
+    "storage_bucket": "freq-cb03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38364068067:android:4ffecc3ca617d245186dd6",
+        "android_client_info": {
+          "package_name": "com.example.freq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38364068067-rbq28s629tg3r8ltgehjs3vh5scbs3d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freq",
+            "certificate_hash": "3b950c53c58c0ef8a3c15af0c9f5935b6cfb0612"
+          }
+        },
+        {
+          "client_id": "38364068067-3hj1sac325nuqunc6qtuq98a0dimbbke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3L3E3QmwOcuyYnXvbefw2BxcGvbf7eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38364068067-3hj1sac325nuqunc6qtuq98a0dimbbke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
